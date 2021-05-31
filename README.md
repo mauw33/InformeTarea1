@@ -27,11 +27,39 @@ Si la intensidad es constante en el tiempo se dice que la corriente es continua;
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-
-
+![Screenshot](DEBER1Y2/1.jpg)
+![Screenshot](DEBER1Y2/2.jpg)
+![Screenshot](DEBER1Y2/3.jpg)
+![Screenshot](DEBER1Y2/4.jpg)
+![Screenshot](DEBER1Y2/5.jpg)
+![Screenshot](DEBER1Y2/6.jpg)
+![Screenshot](DEBER1Y2/7.jpg)
+![Screenshot](DEBER1Y2/8.jpg)
+![Screenshot](DEBER1Y2/9.jpg)
+![Screenshot](DEBER1Y2/10.jpg)
+![Screenshot](DEBER1Y2/11.jpg)
+![Screenshot](DEBER1Y2/12.jpg)
+![Screenshot](DEBER1Y2/13.jpg)
+![Screenshot](DEBER1Y2/14.jpg)
+![Screenshot](DEBER1Y2/15.jpg)
+![Screenshot](DEBER1Y2/16.jpg)
+![Screenshot](DEBER1Y2/17.jpg)
+![Screenshot](DEBER1Y2/18.jpg)
+![Screenshot](DEBER1Y2/19.jpg)
+![Screenshot](DEBER1Y2/20.jpg)
+![Screenshot](DEBER1Y2/21.jpg)
+![Screenshot](DEBER1Y2/22.jpg)
+![Screenshot](DEBER1Y2/23.jpg)
+![Screenshot](DEBER1Y2/24.jpg)
+![Screenshot](DEBER1Y2/25.jpg)
+![Screenshot](DEBER1Y2/26.jpg)
+![Screenshot](DEBER1Y2/27.jpg)
+![Screenshot](DEBER1Y2/28.jpg)
+![Screenshot](DEBER1Y2/29.jpg)
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=b-gR2CHaFyk
 
 5. CONCLUSIONES
 
