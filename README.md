@@ -13,17 +13,8 @@ Aprender de forma teórica conceptos de conversión de sistema de unidades y cá
   *	Resolver ejercicios para mejorar y aumentar conceptos de sistema de unidades y  de voltaje y corriente eléctrica
 
 2. MARCO TEÓRICO (RESUMEN)
-* 2.1. CONCEPTOS FUNDAMENTALES
-  * 2.1.1. VOLTAJE
 
-La diferencia de potencial entre dos puntos (1 y 2) de un campo eléctrico es igual al trabajo que realiza dicha unidad de carga positiva para transportarla desde el punto 1 al punto 2.
-
-La diferencia de potencial entre dos puntos de un circuito, se le suele denominar también como caída de tensión. Cuando por dichos puntos puede circular una corriente eléctrica, la polaridad de la caída de tensión viene determinada por la dirección convencional de la misma, esto es, del punto de mayor potencial al de menor. Por lo tanto, si por la resistencia R de la figura 1 circula una corriente de intensidad I, desde el punto A hacia el B, se producirá una caída de tensión en la misma con la polaridad indicada y se dice que el punto A es más positivo que el B.
-Que dos puntos tengan igual potencial eléctrico no significa que tengan igual carga.
-
- * 2.1.2. CORRIENTE ELÉCTRICA
-Es la carga eléctrica que pasa a través de una sección o conductor en la unidad de tiempo. En el Sistema Internacional de Unidades se expresa en culombios por segundo, unidad que se denomina amperio.
-Si la intensidad es constante en el tiempo se dice que la corriente es continua; en caso contrario, se llama variable. Si no se produce almacenamiento ni distribución de carga en ningún punto del conductor, la corriente es estacionaria. 
+![Screenshot](MARCOTEORICO.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
